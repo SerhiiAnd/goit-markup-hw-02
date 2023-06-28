@@ -18,14 +18,13 @@ body {
 }
 /*-----HEADER---*/
 .head {
-  background: var(--white, #fff);
 }
 .head-nav {
 }
 .head-logo {
   color: var(--navyblue, #2e2f42);
   font-size: 18px;
-  font-family: Raleway;
+  font-family: "Raleway", sans-serif;
   font-weight: 800;
   line-height: 1, 16;
   letter-spacing: 0.03em;
@@ -34,7 +33,7 @@ body {
 .head-logo-accent {
   color: var(--iris, #4d5ae5);
   font-size: 18px;
-  font-family: Raleway;
+  font-family: "Raleway", sans-serif;
   font-weight: 800;
   line-height: 21px;
   letter-spacing: 0.54px;
