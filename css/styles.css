@@ -182,6 +182,7 @@ body {
   background: var(--navyblue, #2e2f42);
 }
 .footer-logo {
+  font-family: "Raleway", sans-serif;
 }
 .footer-logo-whit {
   color: var(--cloud, #f4f4fd);
