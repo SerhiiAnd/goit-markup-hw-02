@@ -1,11 +1,11 @@
-:root {
+/*:root {
   --navyblue: #2e2f42;
   --iris: #4d5ae5;
   --white: #fff;
   --slate: #434455;
   --cloud: #f4f4fd;
   --cornflower: #e7e9fc;
-}
+}*/
 body {
   font-family: "Roboto", sans-serif;
 }
@@ -22,7 +22,7 @@ body {
 .head-nav {
 }
 .head-logo {
-  color: var(--navyblue, #2e2f42);
+  color: #2e2f42;
   font-size: 18px;
   font-family: "Raleway", sans-serif;
   font-weight: 800;
@@ -31,7 +31,7 @@ body {
   text-transform: uppercase;
 }
 .head-logo-accent {
-  color: var(--iris, #4d5ae5);
+  color: #4d5ae5;
   font-size: 18px;
   font-family: "Raleway", sans-serif;
   font-weight: 800;
@@ -44,7 +44,7 @@ body {
 .head-menu-item {
 }
 .head-menu-link {
-  color: var(--navyblue, #2e2f42);
+  color: #2e2f42;
   font-size: 16px;
   font-weight: 500;
   line-height: 1.5;
@@ -58,7 +58,7 @@ body {
 .head-address-item {
 }
 .head-address-link {
-  color: var(--slate, #434455);
+  color: #434455;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -67,21 +67,21 @@ body {
 /*------------ BOSS ------------*/
 
 .boss {
-  background: var(--navyblue, #2e2f42);
+  background: #2e2f42;
 }
 .boss-title {
-  color: var(--white, #fff);
+  color: #fff;
   font-size: 56px;
   font-weight: 700;
   line-height: 1.07;
   letter-spacing: 0.02em;
 }
 .boss-btn {
-  background: var(--iris, #4d5ae5);
+  background: #4d5ae5;
   cursor: pointer;
 }
 .boss-btn-accent {
-  color: var(--white, #fff);
+  color: #fff;
   font-size: 16px;
   font-weight: 500;
   line-height: 1.5;
@@ -91,21 +91,20 @@ body {
 /* - ------- Advantages --------*/
 
 .advantages {
-  background: var(--white, #fff);
 }
 .advantages-list {
 }
 .advantages-item {
 }
 .advantages-subtitle {
-  color: var(--navyblue, #2e2f42);
+  color: #2e2f42;
   font-size: 20px;
   font-weight: 500;
   line-height: 1.2;
   letter-spacing: 0.02em;
 }
 .advantages-item-text {
-  color: var(--slate, #434455);
+  color: #434455;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -113,10 +112,9 @@ body {
 
 /* --------------- WORK ------------*/
 .work {
-  background: var(--white, #fff);
 }
 .work-title {
-  color: var(--navyblue, #2e2f42);
+  color: #2e2f42;
   font-size: 36px;
   font-weight: 700;
   line-height: 1.11;
@@ -127,10 +125,9 @@ body {
 /* ---------------- TEAM ----------------*/
 
 .team {
-  background: var(--cloud, #f4f4fd);
 }
 .team-title {
-  color: var(--navyblue, #2e2f42);
+  color: #2e2f42;
   font-size: 36px;
   font-weight: 700;
   line-height: 1.11;
@@ -140,17 +137,17 @@ body {
 .team-list {
 }
 .team-item {
-  background: var(--white, #fff);
 }
+
 .team-subtitle {
-  color: var(--navyblue, #2e2f42);
+  color: #2e2f42;
   font-size: 20px;
   font-weight: 500;
   line-height: 1.2;
   letter-spacing: 0.02em;
 }
 .team-item-text {
-  color: var(--slate, #434455);
+  color: #434455;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -159,27 +156,26 @@ body {
 /*---------------- FOOTER --------------*/
 
 .footer {
-  background: var(--navyblue, #2e2f42);
+  background: #2e2f42;
 }
 .footer-text {
-  color: var(--cloud, #f4f4fd);
+  color: #f4f4fd;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
 .footer-logo-accent {
-  color: var(--cloud, #f4f4fd);
+  color: #f4f4fd;
 }
 
 /*---------------- BUTTON --------------*/
 .button-pr {
 }
 .button-title {
-  color: var(--cornflower);
+  color: #e7e9fc;
 }
 .button-accent {
-  color: var(--iris, #4d5ae5);
-  text-align: center;
+  color: #4d5ae5;
   font-size: 16px;
   font-weight: 500;
   line-height: 1.5;
@@ -189,22 +185,21 @@ body {
 /*---------------- PRTF ---------------*/
 
 .prtf {
-  background: var(--white, #fff);
 }
 .prtf-list {
 }
 .prtf-item {
-  color: var(--cornflower);
+  color: #e7e9fc;
 }
 .prtf-subtitel {
-  color: var(--navyblue, #2e2f42);
+  color: #2e2f42;
   font-size: 20px;
   font-weight: 500;
   line-height: 1.2;
   letter-spacing: 0.02em;
 }
 .prtf-item-text {
-  color: var(--slate, #434455);
+  color: #434455;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
