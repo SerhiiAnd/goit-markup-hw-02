@@ -172,24 +172,25 @@ body {
   letter-spacing: 0.02em;
 }
 .footer-logo {
-  .footer-logo-whit {
-    color: #f4f4fd;
-    font-size: 18px;
-    font-family: Raleway;
-    font-weight: 800;
-    line-height: 1.17;
-    letter-spacing: 0.03em;
-    text-transform: uppercase;
-  }
-  .footer-logo-accent {
-    color: #4d5ae5;
-    font-size: 18px;
-    font-family: Raleway;
-    font-weight: 800;
-    line-height: 1.17;
-    letter-spacing: 0.03em;
-    text-transform: uppercase;
-  }
+  color: #4d5ae5;
+  font-size: 18px;
+  font-family: Raleway;
+  font-weight: 800;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+}
+
+.footer-logo-accent {
+}
+.footer-logo-whit {
+  color: #f4f4fd;
+  font-size: 18px;
+  font-family: Raleway;
+  font-weight: 800;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
 }
 
 /*---------------- BUTTON --------------*/
