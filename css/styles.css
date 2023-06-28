@@ -37,6 +37,7 @@ body {
 }
 .head-logo-dark {
   color: var(--navyblue, #2e2f42);
+  font-family: "Raleway", sans-serif;
 }
 .head-menu {
 }
@@ -182,10 +183,10 @@ body {
   background: var(--navyblue, #2e2f42);
 }
 .footer-logo {
-  font-family: "Raleway", sans-serif;
 }
 .footer-logo-whit {
   color: var(--cloud, #f4f4fd);
+  font-family: "Raleway", sans-serif;
 }
 .footer-text {
   color: var(--cloud, #f4f4fd);
