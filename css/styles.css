@@ -201,7 +201,26 @@ body {
 .btn {
 }
 .btn-title {
+  background: var(--cornflower, #e7e9fc);
 }
 .btn-accent {
+  color: var(--iris, #4d5ae5);
+  text-align: center;
+  font-size: 16px;
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 24px;
+  letter-spacing: 0.64px;
 }
 /*---------------- PRTF ---------------*/
+.prtf-list {
+}
+.list {
+}
+.prtf-item {
+}
+.prtf-subtitel {
+}
+.prtf-item-text {
+}
